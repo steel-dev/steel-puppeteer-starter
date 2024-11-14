@@ -24,12 +24,12 @@ The example script in `index.ts` shows you how to:
 
 To run it:
 
-1. Uncomment this line in `index.ts`:
-```typescript
-//const STEEL_API_KEY = YOUR_API_KEY_HERE
+1. Create a `.env` file in the root directory:
+```bash
+STEEL_API_KEY=your_api_key_here
 ```
 
-2. Replace `YOUR_API_KEY_HERE` with your Steel API key. Don't have one? Get a free key at [app.steel.dev/settings/api-keys](https://app.steel.dev/settings/api-keys)
+2. Replace `your_api_key_here` with your Steel API key. Don't have one? Get a free key at [app.steel.dev/settings/api-keys](https://app.steel.dev/settings/api-keys)
 
 3. Run the script:
 ```bash
