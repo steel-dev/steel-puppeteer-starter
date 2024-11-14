@@ -2,6 +2,10 @@
 
 This template shows you how to use Steel with Puppeteer to run browser automations in the cloud. It includes session management, error handling, and a basic example you can customize.
 
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/steel-puppeteer-starter?file=README.md)
+[![Open Replit Template](https://replit.com/badge/github/@steel-dev/steel-puppeteer-starter)](https://replit.com/@steel-dev/steel-puppeteer-starter?v=1)
+
+
 ## Installation
 
 Clone the repository and install dependencies:
